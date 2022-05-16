@@ -6,4 +6,4 @@ nhận dạng
 
 
 -đây là code của mình:
--https://colab.research.google.com/drive/1LlPSTPu8xsjwgC8aqiO6iUBzcCJjjX-d?usp=sharing
+-https://colab.research.google.com/drive/1aLj77U3xWubSr3xGfV6g_knmAnw8UOT7?usp=sharing
